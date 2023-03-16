@@ -1,14 +1,35 @@
-<h1 align="center">Hi 👋, I'm David Vergara</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+![Banner GitHub 2](https://user-images.githubusercontent.com/110785758/225473609-f826a99a-f732-4b18-93f3-ab4d1db96b67.png)
 
-- 🌱 I’m currently learning **NextJS, Tailwin and TypeScript**
 
-- 📫 How to reach me **davidvergaraok@gmail.com**
+# ¡Hola! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/david de jesus vergara navarro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david de jesus vergara navarro" height="30" width="40" /></a>
-</p>
+¡Bienvenido/a a mi perfil! Soy David vergara, tengo 28 años y soy Full Stack Developer enamorado del código y pasionado por la música.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+Desde niño me he sentido atraido por la tegnología y sus posibilidades, convertirme en desarrollador es sin duda alguna una de las mejores experiencias que he vivido, habilidad que quiero seguir cultivando cada día con pasión y entusiasmo.
+
+## ¿Qué hago?
+
+Actualmente me dedico a aprender nuevas tecnologías que me permitan fortalecer mis conocimientos y estar en vanguardia para las necesidades cambiantes del mercado, realizando proyectos personales que mejoren mi ni nivel como progrogramador mediante el conocimiento y la experiencia.
+
+En este moemnto me encuentro desarrollando un ecommerce para una tienda de ropas de la ciudad donde vivo, aprendiendo en el proceso el uso de la herramnienta Tailwind.
+
+## Tecnologías que conozco
+
+Durante mi preparación en el bootcamp Henry con más de 700 horas teorico-prácticas aprendí el uso de las principales tecnologías de desarrollo en el momento como:
+
+- JavaScript.
+- React.
+- Redux.
+- NodeJS
+- Express.
+- Sequelize.
+- PostgreSQL.
+- HTML.
+- CSS.
+
+Pero mi aprendizaje no termina aquí, esta hermosa carrera como desarrollador apenas comienza y seguiré creciendo en aprendizaje y experiencia con nuevos proyectos, nuevas tecnologías y nuevos desafíos.
+
+## Contáctame
+
+- LinkedIn: https://www.linkedin.com/in/david-de-jes%C3%BAs-vergara-navarro-62169225a/
+- Email: davidvergaraok@gmail.com
