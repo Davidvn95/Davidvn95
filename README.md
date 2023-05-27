@@ -13,12 +13,13 @@ Actualmente me dedico a aprender nuevas tecnologías que me permitan fortalecer 
 
 En este moemnto me encuentro desarrollando un ecommerce para una tienda de ropas de la ciudad donde vivo, aprendiendo en el proceso el uso de la herramnienta Tailwind.
 
-## Tecnologías que conozco
+## Tecnologías que manejo
 
-Durante mi preparación en el bootcamp Henry con más de 700 horas teorico-prácticas aprendí el uso de las principales tecnologías de desarrollo en el momento como:
+Actualmente tengo experiencia desarrollando con varias tecnologías, la mayoría de las cuales fueron aprendidas durante los estudios en Henry y, otras las he aprendido en proyectos colaborativos y personales. Las tecnologías son:
 
 - JavaScript.
 - React.
+- NextJS.
 - Redux.
 - NodeJS
 - Express.
@@ -26,6 +27,8 @@ Durante mi preparación en el bootcamp Henry con más de 700 horas teorico-prác
 - PostgreSQL.
 - HTML.
 - CSS.
+- Sass.
+- Tailwind CSS.
 
 Pero mi aprendizaje no termina aquí, esta hermosa carrera como desarrollador apenas comienza y seguiré creciendo en aprendizaje y experiencia con nuevos proyectos, nuevas tecnologías y nuevos desafíos.
 
