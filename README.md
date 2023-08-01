@@ -18,13 +18,17 @@ En este moemnto me encuentro desarrollando un ecommerce para una tienda de ropas
 Actualmente tengo experiencia desarrollando con varias tecnologías, la mayoría de las cuales fueron aprendidas durante los estudios en Henry y, otras las he aprendido en proyectos colaborativos y personales. Las tecnologías son:
 
 - JavaScript.
+- TypeScript
 - React.
 - NextJS.
-- Redux.
+- Vue.js
+- Redux Toolkit.
 - NodeJS
 - Express.
 - Sequelize.
 - PostgreSQL.
+- Mongoose
+- Mongodb
 - HTML.
 - CSS.
 - Sass.
