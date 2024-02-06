@@ -40,3 +40,4 @@ Pero mi aprendizaje no termina aquí, esta hermosa carrera como desarrollador ap
 
 - LinkedIn: https://www.linkedin.com/in/david-de-jes%C3%BAs-vergara-navarro-62169225a/
 - Email: davidvergaraok@gmail.com
+- Portafolio: davidvergara.vercel.app
